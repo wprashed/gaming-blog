@@ -1,0 +1,1071 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-06-03 10:51+0600\n"
+"PO-Revision-Date: 2020-06-03 10:52+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/about-us.php:15
+msgid "About Us"
+msgstr ""
+
+#: addons/about-us.php:47 addons/achivement.php:47 addons/blog.php:63
+#: addons/contact-two.php:47 addons/contact.php:47 addons/experience.php:46
+#: addons/portfolio-grid.php:52 addons/portfolio-slider.php:52
+#: addons/pricing-table.php:47 addons/service-tab.php:47 addons/service.php:52
+#: addons/skill.php:47 addons/slider.php:47 addons/testimonial-two.php:47
+#: addons/testimonial.php:47 addons/title.php:47 addons/why-us.php:47
+#: addons/work-flow.php:47
+msgid "Content Controls"
+msgstr ""
+
+#: addons/about-us.php:56 addons/achivement.php:56 addons/achivement.php:92
+#: addons/achivement.php:144 addons/achivement.php:196
+#: addons/achivement.php:248 addons/blog.php:72 addons/contact-two.php:56
+#: addons/contact.php:56 addons/experience.php:55 addons/portfolio-grid.php:61
+#: addons/portfolio-slider.php:61 addons/pricing-table.php:56
+#: addons/service.php:61 addons/skill.php:56 addons/testimonial.php:56
+#: addons/title.php:15 addons/title.php:56 addons/why-us.php:56
+#: addons/work-flow.php:56 addons/work-flow.php:91
+msgid "Title"
+msgstr ""
+
+#: addons/about-us.php:58 addons/achivement.php:58 addons/achivement.php:94
+#: addons/achivement.php:146 addons/achivement.php:198
+#: addons/achivement.php:250 addons/blog.php:74 addons/contact-two.php:58
+#: addons/contact.php:58 addons/experience.php:57 addons/portfolio-grid.php:63
+#: addons/portfolio-slider.php:63 addons/pricing-table.php:58
+#: addons/service.php:63 addons/skill.php:58 addons/slider.php:60
+#: addons/slider.php:72 addons/testimonial.php:58 addons/title.php:58
+#: addons/why-us.php:58 addons/work-flow.php:58 addons/work-flow.php:93
+msgid "Enter Title"
+msgstr ""
+
+#: addons/about-us.php:59 addons/skill.php:59 addons/why-us.php:59
+msgid "Why You Hire Us?"
+msgstr ""
+
+#: addons/about-us.php:68 addons/achivement.php:68 addons/skill.php:68
+#: addons/slider.php:94 addons/why-us.php:68
+msgid "Description"
+msgstr ""
+
+#: addons/about-us.php:71 addons/achivement.php:71 addons/skill.php:71
+#: addons/slider.php:97 addons/why-us.php:71
+msgid "Enter Description"
+msgstr ""
+
+#: addons/about-us.php:72 addons/why-us.php:72
+msgid ""
+"Proin ipsum arcu, lobortis id ullamcorper nec, vehicula eget magna. Sed ut "
+"malesuada magna, eget lacinia sapien. Nam molestie non ex sit amet ornare. "
+"Nunc in pellentesque ipsum, vel vulputate sapien.\n"
+"\n"
+"\t\t\t\t\tSuspendisse potenti. Aliquam elementum felis purus, quis vulputate "
+"libero semper nec. Morbi tincidunt maximus nisl vel placerat. Curabitur at "
+"ligula ac diam elementum hendrerit. Suspendisse nec metus eu est laoreet "
+"hendrerit vitae non ipsum. Nam faucibus elementum arcu, eget eleifend tortor."
+msgstr ""
+
+#: addons/about-us.php:82
+msgid "Team Name"
+msgstr ""
+
+#: addons/about-us.php:84
+msgid "maggie Team"
+msgstr ""
+
+#: addons/about-us.php:93
+msgid "Award Name"
+msgstr ""
+
+#: addons/about-us.php:95
+msgid "Best Award 2020"
+msgstr ""
+
+#: addons/about-us.php:105
+msgid "Signature"
+msgstr ""
+
+#: addons/about-us.php:118
+msgid "Award Image"
+msgstr ""
+
+#: addons/about-us.php:131
+msgid "About Image"
+msgstr ""
+
+#: addons/about-us.php:150 addons/achivement.php:297 addons/blog.php:140
+#: addons/contact-two.php:114 addons/contact.php:114 addons/experience.php:148
+#: addons/portfolio-grid.php:117 addons/portfolio-slider.php:117
+#: addons/pricing-table.php:184 addons/service-tab.php:133
+#: addons/service.php:117 addons/skill.php:134 addons/slider.php:163
+#: addons/testimonial-two.php:115 addons/testimonial.php:206
+#: addons/title.php:86 addons/why-us.php:130 addons/work-flow.php:151
+msgid "Style Controls"
+msgstr ""
+
+#: addons/about-us.php:161 addons/achivement.php:308 addons/blog.php:151
+#: addons/contact-two.php:125 addons/contact.php:125 addons/experience.php:159
+#: addons/portfolio-grid.php:128 addons/portfolio-slider.php:128
+#: addons/pricing-table.php:195 addons/service-tab.php:144
+#: addons/service.php:128 addons/skill.php:145 addons/slider.php:174
+#: addons/testimonial-two.php:126 addons/testimonial.php:217
+#: addons/title.php:97 addons/why-us.php:141 addons/work-flow.php:162
+msgid "Background"
+msgstr ""
+
+#: addons/about-us.php:172 addons/achivement.php:319 addons/blog.php:162
+#: addons/contact-two.php:136 addons/contact.php:136 addons/experience.php:170
+#: addons/portfolio-grid.php:139 addons/portfolio-slider.php:139
+#: addons/pricing-table.php:206 addons/service-tab.php:155
+#: addons/service.php:139 addons/skill.php:156 addons/slider.php:185
+#: addons/testimonial-two.php:137 addons/testimonial.php:228
+#: addons/title.php:108 addons/why-us.php:152 addons/work-flow.php:173
+msgid "Padding"
+msgstr ""
+
+#: addons/about-us.php:186 addons/achivement.php:333 addons/blog.php:176
+#: addons/contact-two.php:150 addons/contact.php:150 addons/experience.php:184
+#: addons/portfolio-grid.php:153 addons/portfolio-slider.php:153
+#: addons/pricing-table.php:220 addons/service-tab.php:169
+#: addons/service.php:153 addons/skill.php:170 addons/slider.php:199
+#: addons/testimonial-two.php:151 addons/testimonial.php:242
+#: addons/title.php:122 addons/why-us.php:166 addons/work-flow.php:187
+msgid "Margin"
+msgstr ""
+
+#: addons/about-us.php:200 addons/achivement.php:347 addons/blog.php:190
+#: addons/blog.php:248 addons/contact-two.php:164 addons/contact.php:164
+#: addons/experience.php:198 addons/portfolio-grid.php:167
+#: addons/portfolio-slider.php:167 addons/pricing-table.php:234
+#: addons/pricing-table.php:292 addons/service.php:167 addons/skill.php:184
+#: addons/slider.php:70 addons/testimonial.php:256 addons/title.php:136
+#: addons/why-us.php:180 addons/work-flow.php:201 addons/work-flow.php:259
+msgid "Title Color"
+msgstr ""
+
+#: addons/about-us.php:213 addons/achivement.php:360 addons/blog.php:203
+#: addons/blog.php:261 addons/contact-two.php:177 addons/contact.php:177
+#: addons/experience.php:211 addons/portfolio-grid.php:180
+#: addons/portfolio-slider.php:180 addons/pricing-table.php:247
+#: addons/pricing-table.php:305 addons/service.php:180 addons/skill.php:197
+#: addons/testimonial.php:269 addons/title.php:149 addons/why-us.php:193
+#: addons/work-flow.php:214 addons/work-flow.php:272
+msgid "Title Typography"
+msgstr ""
+
+#: addons/about-us.php:224 addons/achivement.php:371 addons/contact-two.php:188
+#: addons/contact.php:188 addons/skill.php:208 addons/why-us.php:204
+msgid "Description Color"
+msgstr ""
+
+#: addons/about-us.php:237 addons/achivement.php:384 addons/contact-two.php:201
+#: addons/contact.php:201 addons/skill.php:221 addons/why-us.php:217
+msgid "Description Typography"
+msgstr ""
+
+#: addons/about-us.php:246
+msgid "Team Color"
+msgstr ""
+
+#: addons/about-us.php:260
+msgid "Award Color"
+msgstr ""
+
+#: addons/achivement.php:15
+msgid "Achivement"
+msgstr ""
+
+#: addons/achivement.php:59
+msgid "Over 500+ Completed work & Still Counting"
+msgstr ""
+
+#: addons/achivement.php:72
+msgid ""
+"Orci varius natoque penatibus et magnis dis parturient montes, nascetur "
+"ridiculus mus. Phasellus at orci non risus luctus commodo. Ut nibh tellus, "
+"faucibus nec gravida.\n"
+"\n"
+"\t\t\t\t\tDuis quis ipsum leo. Praesent vitae tellus ac ante porta mattis "
+"vel non ex. Quisque a finibus justo."
+msgstr ""
+
+#: addons/achivement.php:85
+msgid "Achivement One"
+msgstr ""
+
+#: addons/achivement.php:95
+msgid "Projects Done"
+msgstr ""
+
+#: addons/achivement.php:102 addons/achivement.php:154
+#: addons/achivement.php:206 addons/achivement.php:258
+msgid "Number"
+msgstr ""
+
+#: addons/achivement.php:104 addons/achivement.php:156
+#: addons/achivement.php:208 addons/achivement.php:260
+msgid "Enter Number"
+msgstr ""
+
+#: addons/achivement.php:105
+msgid "300"
+msgstr ""
+
+#: addons/achivement.php:112 addons/achivement.php:164
+#: addons/achivement.php:216 addons/achivement.php:268
+msgid "Perifix"
+msgstr ""
+
+#: addons/achivement.php:114 addons/achivement.php:166
+#: addons/achivement.php:218 addons/achivement.php:270
+msgid "Enter Perifix"
+msgstr ""
+
+#: addons/achivement.php:115 addons/achivement.php:167
+#: addons/achivement.php:219 addons/achivement.php:271
+msgid "+"
+msgstr ""
+
+#: addons/achivement.php:122 addons/achivement.php:174
+#: addons/achivement.php:226 addons/achivement.php:278
+msgid "Icon"
+msgstr ""
+
+#: addons/achivement.php:137
+msgid "Achivement Two"
+msgstr ""
+
+#: addons/achivement.php:147
+msgid "Happy Client"
+msgstr ""
+
+#: addons/achivement.php:157
+msgid "250"
+msgstr ""
+
+#: addons/achivement.php:189
+msgid "Achivement Three"
+msgstr ""
+
+#: addons/achivement.php:199
+msgid "Active Projects"
+msgstr ""
+
+#: addons/achivement.php:209
+msgid "200"
+msgstr ""
+
+#: addons/achivement.php:241
+msgid "Achivement Four"
+msgstr ""
+
+#: addons/achivement.php:251
+msgid "Years Exerience"
+msgstr ""
+
+#: addons/achivement.php:261
+msgid "5"
+msgstr ""
+
+#: addons/blog.php:15
+msgid "Blog"
+msgstr ""
+
+#: addons/blog.php:75 addons/title.php:59
+msgid "Latest Blog"
+msgstr ""
+
+#: addons/blog.php:84 addons/contact-two.php:68 addons/contact.php:68
+#: addons/experience.php:67 addons/portfolio-grid.php:73
+#: addons/portfolio-slider.php:73 addons/pricing-table.php:68
+#: addons/service.php:73 addons/slider.php:82 addons/testimonial.php:68
+#: addons/title.php:68 addons/work-flow.php:68
+msgid "Subtitle"
+msgstr ""
+
+#: addons/blog.php:86 addons/contact-two.php:71 addons/contact.php:71
+#: addons/experience.php:69 addons/portfolio-grid.php:75
+#: addons/portfolio-slider.php:75 addons/pricing-table.php:70
+#: addons/service.php:75 addons/slider.php:84 addons/testimonial.php:70
+#: addons/title.php:70 addons/work-flow.php:70
+msgid "Enter Subtitle"
+msgstr ""
+
+#: addons/blog.php:87 addons/service.php:76 addons/title.php:71
+msgid ""
+"When unknow printer took a service of type and scramblted it to make a type "
+"specimen book"
+msgstr ""
+
+#: addons/blog.php:96 inc/taxonomy.php:11
+msgid "Category"
+msgstr ""
+
+#: addons/blog.php:108 addons/portfolio-grid.php:85
+#: addons/portfolio-slider.php:85 addons/service.php:85
+msgid "Total Post"
+msgstr ""
+
+#: addons/blog.php:119 addons/portfolio-grid.php:96
+#: addons/portfolio-slider.php:96 addons/service.php:96
+msgid "Order By"
+msgstr ""
+
+#: addons/blog.php:123 addons/portfolio-grid.php:100
+#: addons/portfolio-slider.php:100 addons/service.php:100
+msgid "ASC"
+msgstr ""
+
+#: addons/blog.php:124 addons/portfolio-grid.php:101
+#: addons/portfolio-slider.php:101 addons/service.php:101
+msgid "DESC"
+msgstr ""
+
+#: addons/blog.php:214 addons/experience.php:222 addons/portfolio-grid.php:191
+#: addons/portfolio-slider.php:191 addons/pricing-table.php:258
+#: addons/service.php:191 addons/slider.php:259 addons/testimonial.php:280
+#: addons/title.php:160 addons/work-flow.php:225
+msgid "Subtitle Color"
+msgstr ""
+
+#: addons/blog.php:227 addons/experience.php:235 addons/portfolio-grid.php:204
+#: addons/portfolio-slider.php:204 addons/pricing-table.php:271
+#: addons/service.php:204 addons/slider.php:272 addons/testimonial.php:293
+#: addons/title.php:173 addons/work-flow.php:238
+msgid "Subtitle Typography"
+msgstr ""
+
+#: addons/blog.php:238
+msgid "Blog Style Controls"
+msgstr ""
+
+#: addons/blog.php:272
+msgid "Date Color"
+msgstr ""
+
+#: addons/blog.php:285
+msgid "Date Typography"
+msgstr ""
+
+#: addons/blog.php:296
+msgid "Content Color"
+msgstr ""
+
+#: addons/blog.php:309
+msgid "Content Typography"
+msgstr ""
+
+#: addons/blog.php:320 addons/pricing-table.php:388 addons/service.php:273
+msgid "Button Text Color"
+msgstr ""
+
+#: addons/blog.php:332 addons/service.php:285
+msgid "Button Icon Color"
+msgstr ""
+
+#: addons/blog.php:345 addons/pricing-table.php:413 addons/service.php:298
+#: addons/slider.php:308 addons/why-us.php:253
+msgid "Button Typography"
+msgstr ""
+
+#: addons/blog.php:413 addons/service.php:349 addons/why-us.php:84
+msgid "Read More"
+msgstr ""
+
+#: addons/contact-two.php:15
+msgid "Contact Us Two"
+msgstr ""
+
+#: addons/contact-two.php:59
+msgid "Send us a message"
+msgstr ""
+
+#: addons/contact-two.php:72 addons/contact.php:72
+msgid ""
+"When unknow printer took a gallery of type and scramblted it to make a type "
+"specimen book"
+msgstr ""
+
+#: addons/contact-two.php:81 addons/contact.php:81
+msgid "Form Shortcode"
+msgstr ""
+
+#: addons/contact-two.php:84 addons/contact.php:84
+msgid "Enter Shortcode"
+msgstr ""
+
+#: addons/contact-two.php:85 addons/contact.php:85
+msgid "[contact-form-7 id=\"2797\" title=\"Contact form 1\"]"
+msgstr ""
+
+#: addons/contact-two.php:95 addons/contact.php:95
+msgid "Contact Image"
+msgstr ""
+
+#: addons/contact.php:15
+msgid "Contact Us"
+msgstr ""
+
+#: addons/contact.php:59
+msgid "Get In Touch With Us"
+msgstr ""
+
+#: addons/experience.php:14 addons/experience.php:81
+msgid "Experience"
+msgstr ""
+
+#: addons/experience.php:58
+msgid "Our Work Experience"
+msgstr ""
+
+#: addons/experience.php:70 addons/pricing-table.php:71
+#: addons/testimonial.php:71 addons/work-flow.php:71
+msgid ""
+"When unknow printer took a of type and scramblted it to make a type specimen "
+"book"
+msgstr ""
+
+#: addons/experience.php:90
+msgid "Field Name"
+msgstr ""
+
+#: addons/experience.php:92 addons/experience.php:102
+#: addons/pricing-table.php:104 addons/service-tab.php:58
+#: addons/testimonial-two.php:69 addons/testimonial-two.php:79
+#: addons/testimonial.php:160 addons/testimonial.php:170
+msgid "Enter Name"
+msgstr ""
+
+#: addons/experience.php:93
+msgid "Graphics Design"
+msgstr ""
+
+#: addons/experience.php:100 addons/testimonial-two.php:67
+#: addons/testimonial.php:158
+msgid "Client Name"
+msgstr ""
+
+#: addons/experience.php:103
+msgid "JOHN ABRAHAM"
+msgstr ""
+
+#: addons/experience.php:110
+msgid "Duration"
+msgstr ""
+
+#: addons/experience.php:112 addons/pricing-table.php:135
+msgid "Enter Duration"
+msgstr ""
+
+#: addons/experience.php:113
+msgid "March 2007- August 2020"
+msgstr ""
+
+#: addons/experience.php:120 addons/work-flow.php:101
+msgid "Details"
+msgstr ""
+
+#: addons/experience.php:123 addons/work-flow.php:104
+msgid "Enter Details"
+msgstr ""
+
+#: addons/experience.php:124
+msgid ""
+"Mauris dictum eros purus, vitae pharetra risus pulvinar rhoncus. Duis "
+"bibendum tristique luctus. Aliquam non urna odio morbi nec lectus tempus "
+"lorem vehicula consequat sed eu lectus. Ut maximus nulla a est placer."
+msgstr ""
+
+#: addons/experience.php:131
+msgid "Experiences"
+msgstr ""
+
+#: addons/experience.php:246 addons/testimonial.php:304
+#: addons/work-flow.php:249
+msgid "Textimonial Style Controls"
+msgstr ""
+
+#: addons/experience.php:256
+msgid "Field Name Color"
+msgstr ""
+
+#: addons/experience.php:269
+msgid "Field Name Typography"
+msgstr ""
+
+#: addons/experience.php:280 addons/testimonial.php:314
+msgid "Client Name Color"
+msgstr ""
+
+#: addons/experience.php:293 addons/testimonial.php:327
+msgid "Client Name Typography"
+msgstr ""
+
+#: addons/experience.php:304 addons/pricing-table.php:364
+msgid "Duration Color"
+msgstr ""
+
+#: addons/experience.php:317 addons/pricing-table.php:377
+msgid "Duration Typography"
+msgstr ""
+
+#: addons/portfolio-grid.php:15
+msgid "Portfolio Grid"
+msgstr ""
+
+#: addons/portfolio-grid.php:64 addons/portfolio-slider.php:64
+msgid "Our Latest Projects"
+msgstr ""
+
+#: addons/portfolio-grid.php:76 addons/portfolio-slider.php:76
+msgid ""
+"When unknow printer took a portfolio of type and scramblted it to make a "
+"type specimen book"
+msgstr ""
+
+#: addons/portfolio-grid.php:215 addons/portfolio-slider.php:215
+msgid "portfolio Title Color"
+msgstr ""
+
+#: addons/portfolio-grid.php:228 addons/portfolio-slider.php:228
+msgid "portfolio Title Typography"
+msgstr ""
+
+#: addons/portfolio-grid.php:239 addons/portfolio-slider.php:239
+msgid "Portfolio Details Color"
+msgstr ""
+
+#: addons/portfolio-grid.php:252 addons/portfolio-slider.php:252
+msgid "Portfolio Details Typography"
+msgstr ""
+
+#: addons/portfolio-grid.php:295 addons/portfolio-slider.php:298
+msgid "All"
+msgstr ""
+
+#: addons/portfolio-slider.php:15
+msgid "Portfolio Slider"
+msgstr ""
+
+#: addons/pricing-table.php:15 addons/pricing-table.php:82
+#: addons/pricing-table.php:167
+msgid "Pricing Table"
+msgstr ""
+
+#: addons/pricing-table.php:59
+msgid "Afforable Pricing"
+msgstr ""
+
+#: addons/pricing-table.php:91
+msgid "Package Icon"
+msgstr ""
+
+#: addons/pricing-table.php:102
+msgid "Package Name"
+msgstr ""
+
+#: addons/pricing-table.php:105 addons/testimonial.php:161
+msgid "Basic"
+msgstr ""
+
+#: addons/pricing-table.php:112
+msgid "Package Features"
+msgstr ""
+
+#: addons/pricing-table.php:115 addons/service-tab.php:91
+#: addons/testimonial-two.php:90 addons/testimonial.php:181
+msgid "Enter Features"
+msgstr ""
+
+#: addons/pricing-table.php:116
+msgid ""
+"<li>Graphic Design</li><li>Web Design</li><li>UI/UX</li><li>HTML/CSS</"
+"li><li>SEO Marketing</li><li>Business Analysis</li>"
+msgstr ""
+
+#: addons/pricing-table.php:123
+msgid "Package Price"
+msgstr ""
+
+#: addons/pricing-table.php:125
+msgid "Enter Price"
+msgstr ""
+
+#: addons/pricing-table.php:126
+msgid "$70"
+msgstr ""
+
+#: addons/pricing-table.php:133
+msgid "Package Duration"
+msgstr ""
+
+#: addons/pricing-table.php:136
+msgid "month"
+msgstr ""
+
+#: addons/pricing-table.php:142 addons/slider.php:106 addons/why-us.php:82
+msgid "Button Text"
+msgstr ""
+
+#: addons/pricing-table.php:144
+msgid "Start now"
+msgstr ""
+
+#: addons/pricing-table.php:152 addons/slider.php:118 addons/why-us.php:94
+msgid "Button Url"
+msgstr ""
+
+#: addons/pricing-table.php:154 addons/slider.php:120 addons/why-us.php:96
+msgid "https://your-link.com"
+msgstr ""
+
+#: addons/pricing-table.php:282
+msgid "Table Style Controls"
+msgstr ""
+
+#: addons/pricing-table.php:316
+msgid "Features Color"
+msgstr ""
+
+#: addons/pricing-table.php:329
+msgid "Features Typography"
+msgstr ""
+
+#: addons/pricing-table.php:340
+msgid "Price Color"
+msgstr ""
+
+#: addons/pricing-table.php:353
+msgid "Price Typography"
+msgstr ""
+
+#: addons/pricing-table.php:400 addons/slider.php:295 addons/why-us.php:240
+msgid "Button Background Color"
+msgstr ""
+
+#: addons/service-tab.php:15
+msgid "Service Tab"
+msgstr ""
+
+#: addons/service-tab.php:56
+msgid "Service Title"
+msgstr ""
+
+#: addons/service-tab.php:59
+msgid "Web Design"
+msgstr ""
+
+#: addons/service-tab.php:66
+msgid "Service Icon"
+msgstr ""
+
+#: addons/service-tab.php:77
+msgid "Service Image"
+msgstr ""
+
+#: addons/service-tab.php:88 addons/testimonial-two.php:87
+#: addons/testimonial.php:178
+msgid "Client Comments"
+msgstr ""
+
+#: addons/service-tab.php:92
+msgid ""
+"Etiam suscipit sed sem nec elementum. Interdum et malesuada fames ac ante "
+"ipsum primis in faucibus. Sed accumsan, urna vel finibus sollicitudin, urna "
+"sem fringilla nisi.\n"
+"\n"
+"\t\t\t\t\tIn vel ante tristique, blandit nisi in, feugiat nisl. Nunc "
+"sagittis pretium arcu, ac consectetur diam feugiat vitae. Pellentesque sit "
+"amet elit facilisis, sodales nisl non, luctus ex. Donec molestie consequat "
+"velit, id imperdiet arcu sollicitudin.\n"
+"\n"
+"\t\t\t\t\tPraesent ac tempus ipsum, eget consequat ante. Sed consequat, elit "
+"euismod finibus faucibus."
+msgstr ""
+
+#: addons/service-tab.php:103
+msgid "Service Status Style"
+msgstr ""
+
+#: addons/service-tab.php:107
+msgid "active"
+msgstr ""
+
+#: addons/service-tab.php:108
+msgid "deactive"
+msgstr ""
+
+#: addons/service-tab.php:116 inc/service.php:10 inc/service.php:18
+msgid "Services"
+msgstr ""
+
+#: addons/service-tab.php:183 addons/service.php:225
+msgid "Service Title Color"
+msgstr ""
+
+#: addons/service-tab.php:197 addons/service.php:249
+msgid "Service Details Color"
+msgstr ""
+
+#: addons/service.php:15 inc/service.php:11
+msgid "Service"
+msgstr ""
+
+#: addons/service.php:64
+msgid "Our Services"
+msgstr ""
+
+#: addons/service.php:215
+msgid "Service Style Controls"
+msgstr ""
+
+#: addons/service.php:238
+msgid "Service Title Typography"
+msgstr ""
+
+#: addons/service.php:262
+msgid "Service Details Typography"
+msgstr ""
+
+#: addons/skill.php:15
+msgid "Skill"
+msgstr ""
+
+#: addons/skill.php:72
+msgid ""
+"Curabitur libero eros, efficitur sit amet sodales tincidunt, aliquet et leo. "
+"Sed ut nibh feugiat, auctor enim quis, hendrerit ipsum. Aenean blandit "
+"lacinia suscipit. Nunc ut tincidunt massa, eu semper lacus."
+msgstr ""
+
+#: addons/skill.php:81
+msgid "Skill Image"
+msgstr ""
+
+#: addons/skill.php:97
+msgid "Skill Name"
+msgstr ""
+
+#: addons/skill.php:99
+msgid "UI/UX Design"
+msgstr ""
+
+#: addons/skill.php:108
+msgid "Skill Percentage"
+msgstr ""
+
+#: addons/skill.php:110
+msgid "85%"
+msgstr ""
+
+#: addons/skill.php:117 addons/slider.php:15 addons/slider.php:146
+msgid "Slider"
+msgstr ""
+
+#: addons/skill.php:232
+msgid "Skill Background Color"
+msgstr ""
+
+#: addons/skill.php:244
+msgid "Skill Active Color"
+msgstr ""
+
+#: addons/skill.php:280
+msgid "%"
+msgstr ""
+
+#: addons/slider.php:58
+msgid "Title Normal"
+msgstr ""
+
+#: addons/slider.php:61
+msgid "We Are Creative"
+msgstr ""
+
+#: addons/slider.php:73
+msgid "maggie Agency"
+msgstr ""
+
+#: addons/slider.php:85
+msgid "We Are Professional Freelance Web Designer"
+msgstr ""
+
+#: addons/slider.php:98
+msgid ""
+"Nulla id euismod massa. Donec accumsan semper lacus, vestibulum gravida ante "
+"sed eu lacus et diam lacinia."
+msgstr ""
+
+#: addons/slider.php:108
+msgid "Hire us"
+msgstr ""
+
+#: addons/slider.php:135
+msgid "Slider Image"
+msgstr ""
+
+#: addons/slider.php:213
+msgid "Normal Title Color"
+msgstr ""
+
+#: addons/slider.php:226
+msgid "Normal Title Typography"
+msgstr ""
+
+#: addons/slider.php:235
+msgid "Color Title Color"
+msgstr ""
+
+#: addons/slider.php:248
+msgid "Color Title Typography"
+msgstr ""
+
+#: addons/slider.php:283 addons/why-us.php:228
+msgid "Button Color"
+msgstr ""
+
+#: addons/testimonial-two.php:15
+msgid "Testimonial Two"
+msgstr ""
+
+#: addons/testimonial-two.php:56 addons/testimonial.php:147
+msgid "Client Image"
+msgstr ""
+
+#: addons/testimonial-two.php:70
+msgid "Jhon Smith"
+msgstr ""
+
+#: addons/testimonial-two.php:77 addons/testimonial.php:168
+msgid "Client Designation"
+msgstr ""
+
+#: addons/testimonial-two.php:80 addons/testimonial.php:171
+msgid "UI/UX Designer"
+msgstr ""
+
+#: addons/testimonial-two.php:91 addons/testimonial.php:182
+msgid ""
+"Donec condimentum vehicula iaculis. Maecenas in aliquet neque. Suspendisse "
+"viverra, ante eget pellentesque pulvinar, nunc nisi molestie ligula, vitae "
+"convallis orci justo vitae sem. Integer vitae imperdiet augue, sed accumsan "
+"diam. Etiam non quam commodo dolor convallis cursus. Duis tempus dolor eget "
+"gravida fringilla. In ultricies velit eget sem tempus egestas."
+msgstr ""
+
+#: addons/testimonial-two.php:98 addons/testimonial.php:15
+#: addons/testimonial.php:189
+msgid "Testimonial"
+msgstr ""
+
+#: addons/testimonial.php:59
+msgid "What People Say’s"
+msgstr ""
+
+#: addons/testimonial.php:78
+msgid "Shape Image One"
+msgstr ""
+
+#: addons/testimonial.php:86
+msgid "Shape Image Two"
+msgstr ""
+
+#: addons/testimonial.php:94
+msgid "Shape Image Three"
+msgstr ""
+
+#: addons/testimonial.php:102
+msgid "Shape Image Four"
+msgstr ""
+
+#: addons/testimonial.php:110
+msgid "Shape Image Five"
+msgstr ""
+
+#: addons/testimonial.php:118
+msgid "Shape Image Six"
+msgstr ""
+
+#: addons/testimonial.php:126
+msgid "Shape Image Seven"
+msgstr ""
+
+#: addons/testimonial.php:138
+msgid "Testimonials"
+msgstr ""
+
+#: addons/testimonial.php:338
+msgid "Designation Color"
+msgstr ""
+
+#: addons/testimonial.php:351
+msgid "Designation Typography"
+msgstr ""
+
+#: addons/testimonial.php:362
+msgid "Comments Color"
+msgstr ""
+
+#: addons/testimonial.php:375
+msgid "Comments Typography"
+msgstr ""
+
+#: addons/why-us.php:15
+msgid "Why Us"
+msgstr ""
+
+#: addons/why-us.php:111
+msgid "Side Image"
+msgstr ""
+
+#: addons/work-flow.php:15 addons/work-flow.php:82
+msgid "Work Flow"
+msgstr ""
+
+#: addons/work-flow.php:59
+msgid "Our Work Flow"
+msgstr ""
+
+#: addons/work-flow.php:94
+msgid "Analysis"
+msgstr ""
+
+#: addons/work-flow.php:105
+msgid ""
+"Morbi vel tortor at metus malesuada convallis. Nam diam magna, laoreet ac "
+"libero quis, laoreet semper sem. Etiam erat quam, suscipit in orci ut, "
+"aliquet finibus tortor. Nullam dui leo, convallis quis diam eget, aliquam "
+"feugiat nunc. Vivamus quis volutpat dui."
+msgstr ""
+
+#: addons/work-flow.php:112
+msgid "Work Flow Icon"
+msgstr ""
+
+#: addons/work-flow.php:123
+msgid "Work Flow Image"
+msgstr ""
+
+#: addons/work-flow.php:134
+msgid "Work Follow"
+msgstr ""
+
+#: addons/work-flow.php:283
+msgid "Details Color"
+msgstr ""
+
+#: addons/work-flow.php:296
+msgid "Details Typography"
+msgstr ""
+
+#: functions.php:69
+msgid "maggie Addons"
+msgstr ""
+
+#: inc/portfolio.php:10 inc/portfolio.php:19
+msgid "Portfolios"
+msgstr ""
+
+#: inc/portfolio.php:11
+msgid "Portfolio"
+msgstr ""
+
+#: inc/portfolio.php:12
+msgid "Portfolio Image"
+msgstr ""
+
+#: inc/portfolio.php:13
+msgid "Add portfolio image"
+msgstr ""
+
+#: inc/portfolio.php:14
+msgid "Remove portfolio image"
+msgstr ""
+
+#: inc/portfolio.php:15
+msgid "Use as portfolio image"
+msgstr ""
+
+#: inc/service.php:12
+msgid "Service image"
+msgstr ""
+
+#: inc/service.php:13
+msgid "Add service image"
+msgstr ""
+
+#: inc/service.php:14
+msgid "Remove service image"
+msgstr ""
+
+#: inc/taxonomy.php:10 inc/taxonomy.php:15
+msgid "Categories"
+msgstr ""
+
+#: widgets/recent-post.php:27
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: widgets/recent-post.php:30
+msgid "maggie: Recent Post"
+msgstr ""
+
+#: widgets/recent-post.php:48
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/recent-post.php:94
+msgid "(no title)"
+msgstr ""
+
+#: widgets/recent-post.php:143 widgets/social-icon.php:142 widgets/tags.php:102
+msgid "Title:"
+msgstr ""
+
+#: widgets/recent-post.php:146
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/recent-post.php:150
+msgid "Display post date?"
+msgstr ""
+
+#: widgets/social-icon.php:11
+msgid "maggie: Social Icons"
+msgstr ""
+
+#: widgets/social-icon.php:12 widgets/social-icon.php:112
+msgid "Social Icons"
+msgstr ""
+
+#: widgets/social-icon.php:148
+msgid "CSS Class name:"
+msgstr ""
+
+#: widgets/social-icon.php:156
+msgid "URL"
+msgstr ""
+
+#: widgets/tags.php:38
+msgid "Show tags."
+msgstr ""
+
+#: widgets/tags.php:41
+msgid "maggie: Tag Cloud"
+msgstr ""
+
+#: widgets/tags.php:59
+msgid "Tags"
+msgstr ""

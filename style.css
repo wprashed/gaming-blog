@@ -1,0 +1,18 @@
+/*************************************************************************
+Theme Name: Maggie Parr
+Theme URI: http://wprashed.com/
+Author: Md Rashed Hossain
+Author URI: http://wprashed.com/
+Description: maggie is Responsive Designed Blog and Magazine WordPress Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: maggie
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+*************************************************************************/
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+.site-header--landing .main-nav {
+    position: relative;
+    z-index: 3333;
+}
